@@ -1,1 +1,8 @@
-"AIML Dataset.csv" 
+# Ignore dataset
+AIML Dataset.csv
+
+# Ignore temporary files
+__pycache__/
+*.pkl
+*.pyc
+*.ipynb_checkpoints/
