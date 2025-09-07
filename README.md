@@ -3,6 +3,8 @@ FraudShield
 This is FraudShield, a project I built to spot fraudulent transactions using machine learning.
 Think of it as a little AI-powered shield that tells you if a transaction looks suspicious or totally fine .
 
+dataset: https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
+
  What it actually does:
 
 You can test one transaction at a time — just punch in the details (type, amount, balances) and FraudShield will give you an answer right away.
